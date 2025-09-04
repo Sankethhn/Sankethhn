@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 - 🔭 Currently working on **Python & AI projects**  
-- 🌱 Learning *Python,javascript**   
+- 🌱 Learning **Python,javascript**  
 - 🤝 Open to learning more about **Machine Learning**  
 - 💬 Ask me about **AI**  
 - 📫 Reach me at **sankethsanketh96396@gmail.com**  
