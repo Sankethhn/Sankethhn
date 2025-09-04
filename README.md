@@ -45,11 +45,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankethhn&theme=dark&hide_border=false&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankethhn&theme=dark&layout=compact&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sankethhn&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
