@@ -23,7 +23,7 @@
   <a href="mailto:sankethsanketh96396@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/Sankethhn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
