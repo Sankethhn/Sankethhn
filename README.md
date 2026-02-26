@@ -1,30 +1,31 @@
 # 👋 Hi, I'm Sanketh H N  
 
-💡 **AI & Python Developer | Tech Enthusiast**  
+💼 **Data Scientist | AI & ML Enthusiast | Python Developer**  
 
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Python & AI projects**  
-- 🌱 Learning **Python,javascript**  
-- 🤝 Open to learning more about **Machine Learning**  
-- 💬 Ask me about **AI**  
-- 📫 Reach me at **sankethsanketh96396@gmail.com**  
+
+- 🎓 Computer Science (AI) Undergraduate 
+- 📊 Passionate about transforming raw data into actionable insights  
+- 🧠 Experienced in building end-to-end data science pipelines  
+- 📈 Skilled in predictive modeling, data preprocessing & evaluation  
+- 🚀 Focused on solving real-world problems using data-driven approaches  
+- 📫 Reach me at **sankethsanketh96396@gmail.com**
+
+---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanketh-sanketh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_sanketh_shaiva_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sankethsanketh96396@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Sankethhn/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-DSA-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -33,16 +34,16 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats  
+
+## 📊 GitHub Activity  
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sankethhn&theme=dark&hide_border=false" alt="GitHub Streak"/>
@@ -50,11 +51,8 @@
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Sankethhn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> “Turning data into decisions through analytics and intelligent systems.”
