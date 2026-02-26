@@ -2,13 +2,6 @@
 
 💼 **Data Scientist | AI & ML Enthusiast | Python Developer**  
 
----
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sankethhn&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
-
 ## 🌟 About Me  
 
 - 🎓 Computer Science (AI) Undergraduate 
@@ -46,7 +39,3 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-
-(https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)
-🔝 Top Contributed Repos !
-[](https://github-contributor-stats.vercel.app/api?username=Sankethhn&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)](https://visitcount.itsvg.in) 
