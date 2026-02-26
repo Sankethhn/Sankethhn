@@ -3,6 +3,11 @@
 💼 **Data Scientist | AI & ML Enthusiast | Python Developer**  
 
 ---
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Sankethhn&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</p>
 
 ## 🌟 About Me  
 
@@ -43,4 +48,5 @@
 
 
 (https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)
-🔝 Top Contributed Repos ![](https://github-contributor-stats.vercel.app/api?username=Sankethhn&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> make this changes with references to my resume and give me proper one for github to attarct professionals
+🔝 Top Contributed Repos !
+[](https://github-contributor-stats.vercel.app/api?username=Sankethhn&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Sankethhn&icon=0&color=0)](https://visitcount.itsvg.in) 
